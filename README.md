@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# testblog
+This is a personal test app, basic blog
+>>>>>>> 67256ca4542581a91ad3d03706bd14693e00ad5d
